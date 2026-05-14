@@ -1,4 +1,4 @@
-#  
+#  ultimate Scripts for ink game offers the most advanced ink game Script, with invisibility and one-hit kill. Perfect for dominating any match.
 
 
 
